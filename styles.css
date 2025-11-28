@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: blue;
+}
+
+h1 {
+    color: #008000;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.manon_title{
+    color: red;
+}
+img{
+    transform: scale(0.5);
+}
+
+   
